@@ -1,0 +1,32 @@
+# topology
+gudhi==3.11.0
+
+# array & data handling
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# progress bars
+tqdm>=4.65
+
+# imaging
+Pillow>=9.5
+scikit-image>=0.20
+
+# deep learning (Keras & TensorFlow)
+tensorflow>=2.12
+keras>=2.12
+
+# deep learning (PyTorch)
+torch>=2.1
+torchvision>=0.15
+
+# classical ML
+scikit-learn>=1.2
+
+# embedding
+openTSNE>=0.6

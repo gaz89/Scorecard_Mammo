@@ -16,8 +16,9 @@ The **SMD ScoreCard** provides a systematic, multi-dimensional evaluation framew
 ---
 
 ## 📊 Framework Overview
+ ![7Cs_Scorecard](https://github.com/user-attachments/assets/ee40e0c2-1f42-4660-aabf-e4f9b2758547)
 
-<img width="1440" height="900" alt="Screenshot 2025-08-25 at 9 05 35 PM" src="https://github.com/user-attachments/assets/5431944c-e254-4d4c-aa3f-fece0c4d058e" />
+
 
 Each dimension is evaluated using a combination of statistical, topological, and clinical metrics. The scorecard provides **transparent, interpretable reports** that can guide dataset developers, modelers, and regulators.
 

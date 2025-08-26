@@ -1,0 +1,13 @@
+Dataset,Subgroup,Correctness,Coverage,Constraint
+MSYNTH,Fatty,0.65,0.7,0.8
+MSYNTH,Scattered,0.6,0.75,0.75
+MSYNTH,Hetero,0.55,0.78,0.7
+MSYNTH,Dense,0.4,0.65,0.65
+HuggingFace,Fatty,0.66,0.71,0.81
+HuggingFace,Scattered,0.61,0.78,0.77
+HuggingFace,Hetero,0.57,0.8,0.72
+HuggingFace,Dense,0.45,0.68,0.66
+Mammo-GAN,Fatty,0.68,0.72,0.82
+Mammo-GAN,Scattered,0.62,0.8,0.78
+Mammo-GAN,Hetero,0.53,0.82,0.68
+Mammo-GAN,Dense,0.43,0.7,0.67

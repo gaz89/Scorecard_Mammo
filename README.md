@@ -86,7 +86,7 @@ If you use this framework in your work, please cite:
 ```
 @article{zamzmi2025smdscorecard,
   title={A Seven-Criteria Evaluation Framework for the Responsible Use of Synthetic Medical Data},
-  author={Zamzmi, Ghada and colleagues},
+  author={Zamzmi et al.},
   journal={(Pending)},
   year={2025}
 }
